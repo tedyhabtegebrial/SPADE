@@ -1,3 +1,4 @@
+models/networks/Synchronized-BatchNorm-PyTorch/
 checkpoints/
 results/
 .idea/
